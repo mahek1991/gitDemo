@@ -1,0 +1,2 @@
+19:34:19.857 [main] INFO  MavenHome.mav.log4j - Successfully opened google.com
+19:34:23.001 [main] ERROR MavenHome.mav.log4j - Gmail did not click
